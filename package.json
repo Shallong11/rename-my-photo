@@ -1,15 +1,16 @@
 {
-  "name": "photo-rename",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Shallong11",
-  "license": "ISC",
-  "dependencies": {
-    "exif-renamer": "^1.2.0"
-  }
+    "name": "tidy-photos",
+    "version": "1.0.0",
+    "description": "",
+    "homepage": "https://shallong11.github.io",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Shallong11",
+    "license": "MIT",
+    "dependencies": {
+        "exif-renamer": "^1.2.0"
+    }
 }
